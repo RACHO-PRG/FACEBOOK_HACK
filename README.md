@@ -56,5 +56,5 @@ python facebook_hack.py
     - **Get Target Facebook Profile ID**:
   
    
-    * **Command**: python facebook_hack.py -g https://www.facebook.com/zuck
+    * **Command**: python facebook_hack.py -g https://www.facebook.com/profile.php?id=100094938517929
   
